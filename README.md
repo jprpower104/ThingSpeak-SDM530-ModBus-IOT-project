@@ -9,3 +9,4 @@ https://thingspeak.com/channels/1021006
 
 ![Power Meter](/images/sdm530.jpg)
 
+![Dashboard](/images/thingspeak.jpg)
