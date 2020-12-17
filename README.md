@@ -11,7 +11,7 @@ https://thingspeak.com/channels/1021006
 
 ![Dashboard](/images/thingspeak.jpg)
 
-/images/ESP32_PMU_ModBus_IOT.jpeg
+![Full_Project](/images/ESP32_PMU_ModBus_IOT.jpeg)
 
-/images/Rocky.jpg
+![Dog](/images/Rocky.jpg)
 
