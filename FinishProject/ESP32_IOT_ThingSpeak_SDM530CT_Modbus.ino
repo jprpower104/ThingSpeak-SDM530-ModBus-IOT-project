@@ -1,10 +1,3 @@
-/*
-Copyright 2018 Bert Melis
-This example reads 2 words (4 bytes) from address 52 of a server with id 1.
-address 52 = register 30053 (Eastron SDM630 Total system power)
-The ESP is connected to a max3485 with pins 16 (RX), 17 (TX) and 4 as RTS.
-*/
-
 #include <Arduino.h>
 #include <esp32ModbusRTU.h>
 #include <algorithm>  // for std::reverse
